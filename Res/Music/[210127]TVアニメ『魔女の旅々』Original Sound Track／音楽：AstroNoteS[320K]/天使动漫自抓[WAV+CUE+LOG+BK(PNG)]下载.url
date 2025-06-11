@@ -1,0 +1,14 @@
+[DEFAULT]
+BASEURL=http://bbs.mumayi.net/index.php
+[InternetShortcut]
+URL=https://www.tsdm39.net/forum.php?mod=viewthread&tid=1034034
+Modified=705AA9304693CB0148
+IconFile=C:\Windows\system32\SHELL32.dll
+IconIndex=28
+IDList=
+HotKey=0
+[InternetShortcut.A]
+[InternetShortcut.W]
+IconFile=D:+AFyRzYmBdoSLuldbW4mIxWWHTvYAXA-favicon.ico
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
